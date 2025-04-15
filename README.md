@@ -178,7 +178,7 @@ sns.pairplot(dt)
 ![alt text](image-22.png)  
 
 # RESULT
-        ```Thus, the Exploratory Data Analysis on the given data set was performed successfully.```
+        Thus, the Exploratory Data Analysis on the given data set was performed successfully.
 
 
 
